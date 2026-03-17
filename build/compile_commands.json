@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/xcredo/programming/cpp/SmallVector/build/tests",
+  "command": "/usr/bin/c++  -I/home/xcredo/programming/cpp/SmallVector -std=c++17 -o CMakeFiles/run_tests.dir/test_small_vector.cpp.o -c /home/xcredo/programming/cpp/SmallVector/tests/test_small_vector.cpp",
+  "file": "/home/xcredo/programming/cpp/SmallVector/tests/test_small_vector.cpp",
+  "output": "tests/CMakeFiles/run_tests.dir/test_small_vector.cpp.o"
+},
+{
+  "directory": "/home/xcredo/programming/cpp/SmallVector/build/examples",
+  "command": "/usr/bin/c++  -I/home/xcredo/programming/cpp/SmallVector -std=c++17 -o CMakeFiles/example.dir/example.cpp.o -c /home/xcredo/programming/cpp/SmallVector/examples/example.cpp",
+  "file": "/home/xcredo/programming/cpp/SmallVector/examples/example.cpp",
+  "output": "examples/CMakeFiles/example.dir/example.cpp.o"
+}
+]

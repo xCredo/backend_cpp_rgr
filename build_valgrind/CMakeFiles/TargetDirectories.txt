@@ -1,0 +1,11 @@
+/home/xcredo/programming/cpp/SmallVector/build_valgrind/CMakeFiles/test.dir
+/home/xcredo/programming/cpp/SmallVector/build_valgrind/CMakeFiles/edit_cache.dir
+/home/xcredo/programming/cpp/SmallVector/build_valgrind/CMakeFiles/rebuild_cache.dir
+/home/xcredo/programming/cpp/SmallVector/build_valgrind/tests/CMakeFiles/run_tests.dir
+/home/xcredo/programming/cpp/SmallVector/build_valgrind/tests/CMakeFiles/test.dir
+/home/xcredo/programming/cpp/SmallVector/build_valgrind/tests/CMakeFiles/edit_cache.dir
+/home/xcredo/programming/cpp/SmallVector/build_valgrind/tests/CMakeFiles/rebuild_cache.dir
+/home/xcredo/programming/cpp/SmallVector/build_valgrind/examples/CMakeFiles/example.dir
+/home/xcredo/programming/cpp/SmallVector/build_valgrind/examples/CMakeFiles/test.dir
+/home/xcredo/programming/cpp/SmallVector/build_valgrind/examples/CMakeFiles/edit_cache.dir
+/home/xcredo/programming/cpp/SmallVector/build_valgrind/examples/CMakeFiles/rebuild_cache.dir

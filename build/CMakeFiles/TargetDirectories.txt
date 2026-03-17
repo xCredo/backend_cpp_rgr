@@ -1,0 +1,11 @@
+/home/xcredo/programming/cpp/SmallVector/build/CMakeFiles/test.dir
+/home/xcredo/programming/cpp/SmallVector/build/CMakeFiles/edit_cache.dir
+/home/xcredo/programming/cpp/SmallVector/build/CMakeFiles/rebuild_cache.dir
+/home/xcredo/programming/cpp/SmallVector/build/tests/CMakeFiles/run_tests.dir
+/home/xcredo/programming/cpp/SmallVector/build/tests/CMakeFiles/test.dir
+/home/xcredo/programming/cpp/SmallVector/build/tests/CMakeFiles/edit_cache.dir
+/home/xcredo/programming/cpp/SmallVector/build/tests/CMakeFiles/rebuild_cache.dir
+/home/xcredo/programming/cpp/SmallVector/build/examples/CMakeFiles/example.dir
+/home/xcredo/programming/cpp/SmallVector/build/examples/CMakeFiles/test.dir
+/home/xcredo/programming/cpp/SmallVector/build/examples/CMakeFiles/edit_cache.dir
+/home/xcredo/programming/cpp/SmallVector/build/examples/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=undefined CMakeFiles/example.dir/example.cpp.o -o example 

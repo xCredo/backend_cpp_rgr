@@ -1,0 +1,22 @@
+Start testing: Mar 18 00:41 +07
+----------------------------------------------------------
+1/1 Testing: SmallVectorTests
+1/1 Test: SmallVectorTests
+Command: "/home/xcredo/programming/cpp/SmallVector/build_asan/tests/run_tests"
+Directory: /home/xcredo/programming/cpp/SmallVector/build_asan/tests
+"SmallVectorTests" start time: Mar 18 00:41 +07
+Output:
+----------------------------------------------------------
+Randomness seeded to: 797919652
+===============================================================================
+All tests passed (158 assertions in 50 test cases)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"SmallVectorTests" end time: Mar 18 00:41 +07
+"SmallVectorTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 18 00:41 +07
